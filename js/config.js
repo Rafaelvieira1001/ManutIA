@@ -4,7 +4,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-export const API_KEY = "";
+export const API_KEY = "AQ.Ab8RN6JTRZ9hU0MXn-wnGjGW8djFIxb3fVVzZWPZB4mdbtmBhw";
 export const MODEL = "gemini-3-flash-preview";
 =======
 export const API_KEY = "AQ.Ab8RN6IQDVsCqd1rAsyv21D6GFTIyOkM6UwYzKxvx9h4PIcnQA";
