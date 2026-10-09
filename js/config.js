@@ -2,7 +2,7 @@
 // ATENÇÃO: nunca publique uma chave de API real em código de front-end.
 // Em produção, use um servidor intermediário (proxy) e deixe a chave lá.
 
-export const API_KEY = "";
+export const API_KEY = "AQ.Ab8RN6JTRZ9hU0MXn-wnGjGW8djFIxb3fVVzZWPZB4mdbtmBhw";
 export const MODEL = "gemini-3-flash-preview";
 export const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
 
